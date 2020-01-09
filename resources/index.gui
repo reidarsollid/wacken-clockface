@@ -7,4 +7,7 @@
             id="wacken"
             x="50%" y="10%+55" text-anchor="middle">Wacken
     </text>
+    <text id="wacken-counter"
+          x="50%" y="20%+55" text-anchor="middle">000
+    </text>
 </svg>
