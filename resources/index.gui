@@ -1,13 +1,19 @@
-<svg viewport-fill="fb-cyan">
+<svg viewport-fill="black">
+    <image width="100%" height="100%" href="woa_20_icon_6.png" class="bullhead"/>
     <text id="myClock" x="50%" y="50%+15"
-          fill="black" font-size="32" font-family="System-Regular"
+          fill="fb-light-gray" font-size="32" font-family="System-Regular"
           text-anchor="middle" text-length="20">00:00:00
     </text>
-    <text
-            id="wacken"
-            x="50%" y="10%+55" text-anchor="middle">Wacken
+    <text id="myClock2" x="50%" y="50%+17"
+          fill="fb-peach" font-size="32" font-family="System-Regular"
+          text-anchor="middle" text-length="20">00:00:00
+    </text>
+    <text id="wacken"
+          fill="fb-peach" font-size="32" font-family="Tungsten-Medium" text-overflow="clip"
+          x="50%" y="10%+15" text-anchor="middle">Wacken
     </text>
     <text id="wacken-counter"
-          x="50%" y="20%+55" text-anchor="middle">000
+          fill="fb-peach" font-size="32" font-family="Tungsten-Medium"
+          x="50%" y="20%+15" text-anchor="middle">000
     </text>
 </svg>

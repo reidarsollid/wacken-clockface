@@ -5,6 +5,9 @@
   text-length: 32;
 }
 
+.bullhead {
+  fill: gray;
+}
 #background {
   width: 100%;
   height: 100%;
